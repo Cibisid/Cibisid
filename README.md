@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cibisid](https://github.com/Cibisid)
 
-- 📫 How to reach me **cibisid2625@gmail.com**
+- 📫 How to reach me **cibi.siddarth@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
