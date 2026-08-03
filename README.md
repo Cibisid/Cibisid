@@ -1,25 +1,49 @@
-<h1 align="center">Hi 👋, I'm Cibi Siddarth</h1>
-<h3 align="center">Dedicated software enthusiast with a passion for development and manual testing. With a keen eye for detail and a love for problem-solving, I strive to create efficient and robust software solutions</h3>
+# Cibi Siddarth
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cibisid&label=Profile%20views&color=0e75b6&style=flat" alt="cibisid" /> </p>
+Software engineer working on backend systems, applied NLP, and full-stack web applications.
+M.S. Computer Science (Data Science), University of North Florida.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cibisid" alt="cibisid" /></a> </p>
+Currently building **[TrialBridge](https://github.com/Cibisid/trialbridge)** — a clinical trial matching
+platform that parses unstructured patient notes and ranks eligible trials with explainable scoring.
+FastAPI, PostgreSQL + pgvector, BioBERT embeddings, Docker, CI.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Cibisid](https://github.com/Cibisid)
+---
 
-- 📫 How to reach me **cibi.siddarth@yahoo.com**
+### What I work with
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/cibi siddarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cibi siddarth" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/cibi_siddarth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/cibi_siddarth/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/cibisiddamajw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/cibisiddamajw" height="30" width="40" /></a>
-</p>
+**Languages** &nbsp;Python · JavaScript · TypeScript · SQL · Java
+**Backend** &nbsp;FastAPI · Flask · Django · REST APIs · JWT auth · async SQLAlchemy
+**Data** &nbsp;PostgreSQL · pgvector · MySQL · Redis · Apache Airflow · ETL
+**ML / NLP** &nbsp;PyTorch · HuggingFace Transformers · scikit-learn · XGBoost · LLM APIs · RAG
+**Infra** &nbsp;Docker · docker-compose · GitHub Actions · Nginx · AWS (EC2, S3, RDS, Lambda)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cibisid&show_icons=true&locale=en&layout=compact" alt="cibisid" /></p>
+### Selected work
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cibisid&" alt="cibisid" /></p>
+**[TrialBridge](https://github.com/Cibisid/trialbridge)** — Clinical trial matching platform
+Ingests 2,344 trials from the ClinicalTrials.gov bulk export. Custom NLP pipeline extracts age, sex,
+diagnosis, labs, and medications from free-text patient notes with negation handling. Semantic search
+over pgvector plus a deterministic eligibility rules engine produces ranked, explainable matches.
+Layered FastAPI service, JWT auth, multi-stage Docker builds, CI running lint + typecheck + tests
+against live Postgres and Redis services.
+`Python` `FastAPI` `PostgreSQL` `pgvector` `Docker` `GitHub Actions`
 
+**[NUDGE](https://github.com/Cibisid/NUDGE)** — Natural-language desktop automation *(prototype)*
+Plain-English task description is turned into a Windows automation script by Llama 3.3 70B and
+delivered through a single-use link. React + Vite front end, FastAPI back end.
+`Python` `FastAPI` `React` `Groq`
+
+**[Aahaar](https://github.com/Cibisid/aahaar)** — Nutrition and meal-planning web app
+`HTML` `CSS` `JavaScript`
+
+---
+
+### Practice
+
+**[LeetCode 75](https://github.com/Cibisid/leetcode-75)** — 99 solutions in Java, patterns organised by topic
+**[DSA Sheet](https://github.com/Cibisid/dsa-practice)** — 100 problems across arrays, strings, trees, graphs, DP
+
+---
+
+📍 Jacksonville, FL &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/cibi-siddarth) &nbsp;·&nbsp; cibi.siddarth@icloud.com
